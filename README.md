@@ -1,5 +1,5 @@
 # Ransomware-and-Goodware-PE-Header
-Getting this datasets were a huge problem for me, when i was working on my project. I decided to drop this for who ever needs it dont forget to cite my paper. Thank you
+During the course of my research project, I encountered significant challenges in acquiring comprehensive datasets. Recognizing the value of these data to the broader research community, I have decided to make mine publicly available. These datasets are now accessible for use by fellow researchers and practitioners in the field. If you utilize these resources in your work, I kindly request that you cite my associated paper. Your adherence to proper attribution is greatly appreciated.
 
 **Project Topic:** Ransomware Detection using Image-Based Representation of PE Headers: A Deep Learning Approach
 
