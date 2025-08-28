@@ -5,12 +5,12 @@ During the course of my research project, I encountered significant challenges i
 
 **Author**: Kolawole Oriola, 
 
-**Abstract:**
+**Abstract:**    
 The frequency of cyberattacks has risen significantly in the past few years. Cybercrime costs have increased dramatically in recent years and don't appear to be going down. According to a report by leading data and statistics portal Statista, cybercrime is projected to inflict $10.29 trillion in damages on the global economy by 2025. Cyberattacks, such as ransomware attacks, can seriously affect an organization's ability to operate. These attacks can cause significant disruption and financial loss by targeting specific people, groups, nations, or even the entire planet.  To respond to these attacks, this research proposes a ransomware detection method that visualizes Portable Executable (PE) headers as colour images and classifies them using three distinct Convolutional Neural Network (CNN) architectures. This strategy makes feature extraction easier, decreases the processing burden, and is better equipped to counter evasion tactics and adapt to the ever-changing ransomware landscape. Using three datasets the suggested model achieved an accuracy of  93.71%, 96.45%, and 91.54% on the VGG16 model, 92.31%, 90.86%, and 91.76% on the Xception CNN model while the Resnet50 model achieved an accuracy of 87.41%, 86.80%, and 84.82%. This approach was also used to classify ransomware families; VGG16, Xception CNN, and Resnet50 models with an accuracy of 89%, 85%, and 79% respectively. Based on these promising results, this strategy has proven to be an excellent technique for ransomware detection and other forms of cyberattacks.
 
 Link: *coming soon*
 
-**Dataset 3**
+**Dataset 3**    
 This dataset is composed of data from various research papers. The ransomware dataset includes 2200 ransomware applications sourced from MarauderMap (Hou et al., 2024) and 1577 ransomware applications from ICFL-UP on GitHub (Dendere & Singh, 2024). The goodware dataset consists of 1267 benign applications provided directly by Moreira et al. (2024), 1000 goodware applications from Manavi and Hamzeh (2021c), and 982 goodware applications obtained from DikeDataset on GitHub.
 
 I extracted the PE Headers and saved it in the csv file in the repo. The Python script I wrote is also here. 
