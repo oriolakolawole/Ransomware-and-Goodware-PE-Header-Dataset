@@ -15,7 +15,7 @@ This dataset is composed of data from various research papers. The ransomware da
 
 I extracted the PE Headers and saved it in the csv file in the repo. The Python script I wrote is also here. 
 
-**Reference**
+**Reference**  
 Dendere, T. R., & Singh, A. (2024). Ransomware detection using portable executable imports. International Conference on Cyber Warfare and Security, 19(1), 66–74. https://doi.org/10.34190/iccws.19.1.2031  
 
 Hou, Y., Guo, L., Zhou, C., Xu, Y., Yin, Z., Li, S., Sun, C., & Jiang, Y. (2024). An Empirical Study of Data Disruption by Ransomware Attacks. ICSE ’24: IEEE/ACM 46th International Conference on Software Engineering. https://doi.org/10.1145/3597503.3639090  
