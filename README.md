@@ -1,5 +1,4 @@
-# Ransomware-and-Goodware-PE-Header
-During the course of my research project, I encountered significant challenges in acquiring comprehensive datasets. Recognizing the value of these data to the broader research community, I have decided to make mine publicly available. These datasets are now accessible for use by fellow researchers and practitioners in the field. If you utilize these resources in your work, I kindly request that you cite my associated paper. Your adherence to proper attribution is greatly appreciated.
+# Ransomware Classification
 
 **Project Topic:** Ransomware Detection using Image-Based Representation of PE Headers: A Deep Learning Approach
 
@@ -10,10 +9,18 @@ The frequency of cyberattacks has risen significantly in the past few years. Cyb
 
 Link: *coming soon*
 
-**Dataset 3**    
-This dataset is composed of data from various research papers. The ransomware dataset includes 2200 ransomware applications sourced from MarauderMap (Hou et al., 2024) and 1577 ransomware applications from ICFL-UP on GitHub (Dendere & Singh, 2024). The goodware dataset consists of 1267 benign applications provided directly by Moreira et al. (2024), 1000 goodware applications from Manavi and Hamzeh (2021c), and 982 goodware applications obtained from DikeDataset on GitHub.
+**Dataset 3 Overview**    
+This dataset combines samples from multiple research sources.
+- Ransomware: 2,200 samples from MarauderMap (Hou et al., 2024) and 1,577 from ICFL-UP on GitHub (Dendere & Singh, 2024).
+- Goodware: 1,267 benign applications from Moreira et al. (2024), 1,000 from Manavi and Hamzeh (2021c), and 982 from DikeDataset on GitHub.
 
-I extracted the PE Headers and saved it in the csv file in the repo. The Python script I wrote is also here. 
+Description
+Comprehensive datasets were difficult to obtain, so I curated and consolidated these resources to support further research. The dataset is now publicly available for academic and practical use.
+If you use this dataset, please cite my associated paper — proper attribution is appreciated.
+
+Contents
+'pe_headers.csv' – Extracted PE header features.
+'extractor.py' – Python script used for feature extraction.
 
 **Reference**  
 Dendere, T. R., & Singh, A. (2024). Ransomware detection using portable executable imports. International Conference on Cyber Warfare and Security, 19(1), 66–74. https://doi.org/10.34190/iccws.19.1.2031  
